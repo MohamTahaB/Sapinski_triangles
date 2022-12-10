@@ -7,5 +7,5 @@ This step for the moment fixed by choosing the median point of one of the triang
 2.**Consider the last added point,  choose one of the triangle's extremities randomly, then plot their median;**
 
 Repeating the last operation enough times will give a good outline of the _Sapinski Triangles_.
-
+![Sapinski Triangles](myplot.jpeg)
 
